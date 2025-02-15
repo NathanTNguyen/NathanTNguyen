@@ -9,7 +9,7 @@ In a recent project I wrote a [Chip-8 Emulator](https://github.com/NathanTNguyen
 
 <div align="center">
 
-| <a href="https://github.com/NathanTNguyen/chip-8-emulator" target="_blank"><img src="https://github.com/user-attachments/assets/ddfc7ea8-a6b6-48f0-8077-dee1d7552a65" alt="Chip-8 Emulator" height="250" /></a> | <a href="https://github.com/NathanTNguyen/DefoldGameProject" target="_blank"><img src="https://github.com/NathanTNguyen/DefoldGameProject/blob/103b53e116396e176c32904319f7cf0ee175c116/screenshots/2.PNG?raw=true" alt="Top-Down Platformer" height="250" /></a> |
+| <a href="https://github.com/NathanTNguyen/chip-8-emulator" target="_blank"><img src="https://github.com/user-attachments/assets/ddfc7ea8-a6b6-48f0-8077-dee1d7552a65" alt="Chip-8 Emulator" height="200" /></a> | <a href="https://github.com/NathanTNguyen/DefoldGameProject" target="_blank"><img src="https://github.com/NathanTNguyen/DefoldGameProject/blob/103b53e116396e176c32904319f7cf0ee175c116/screenshots/2.PNG?raw=true" alt="Top-Down Platformer" height="200" /></a> |
 |:---:|:---:|
 | Chip-8 Emulator (C++) | Top-Down Platformer (Lua &#124; Defold) |
 
@@ -17,7 +17,7 @@ In a recent project I wrote a [Chip-8 Emulator](https://github.com/NathanTNguyen
 
 <div align="center">
 
-| <a href="https://github.com/NathanTNguyen/resume-portfolio-website" target="_blank"><img src="https://github.com/NathanTNguyen/resume-portfolio-website/blob/dbd14520bbef11e118c1c2ee5488446b0fec8c97/src/assets/projects/website.PNG?raw=true" alt="Resume Portfolio Website" height="250" /></a> |
+| <a href="https://github.com/NathanTNguyen/resume-portfolio-website" target="_blank"><img src="https://github.com/NathanTNguyen/resume-portfolio-website/blob/dbd14520bbef11e118c1c2ee5488446b0fec8c97/src/assets/projects/website.PNG?raw=true" alt="Resume Portfolio Website" height="200" /></a> |
 |:---:|
 | Resume Portfolio Website |
 
@@ -28,8 +28,8 @@ In a recent project I wrote a [Chip-8 Emulator](https://github.com/NathanTNguyen
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathantnguyen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathantnguyen&theme=dark&hide_border=true" alt="GitHub Streak Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathantnguyen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathantnguyen&theme=dark&hide_border=true" alt="GitHub Streak Stats" height="150"/>
 </p>
 
 ---
